@@ -1,0 +1,12 @@
+.logo-1 img, .logo-2 img, .navbar-header img{
+    width: 130px;
+    padding: 6% 0;
+}
+.cust-nv-btn{
+    color: #fff !important;
+    padding: 15px 35px !important;
+    background-color: #fb8122;
+}
+.contact-ft a{color: #fff;}
+.contact-ft a:hover, .office-info-text a:hover{color: #fb8122;}
+.office-info-text a{color: #000;}
